@@ -1,0 +1,1 @@
+Este repositório distribui os instaladores públicos do Placas da Barra. O código-fonte fica em repositório privado. Baixe os arquivos pela área Releases ou pelo Atlas Empresa.
